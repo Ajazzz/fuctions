@@ -1,0 +1,34 @@
+import numpy as np
+
+def create_array(n):
+    return np.arange(n)
+
+# Example usage:
+arr = create_array(5)
+print(arr)   # Output: [0 1 2 3 4]
+
+
+# Calculating the mean of an array:
+
+import numpy as np
+
+def calculate_mean(arr):
+    return np.mean(arr)
+
+# Example usage:
+arr = np.array([1, 2, 3, 4, 5])
+mean = calculate_mean(arr)
+print(mean)   # Output: 3.0
+
+
+# Reshaping an array:
+import numpy as np
+
+def reshape_array(arr, shape):
+    return np.reshape(arr, shape)
+
+# Example usage:
+arr = np.array([1, 2, 3, 4, 5, 6])
+new_shape = (2, 3)
+new_arr = reshape_array(arr, new_shape)
+print(new_arr)   # Output: [[1 2 3], [4 5 6]]

@@ -32,3 +32,20 @@ arr = np.array([1, 2, 3, 4, 5, 6])
 new_shape = (2, 3)
 new_arr = reshape_array(arr, new_shape)
 print(new_arr)   # Output: [[1 2 3], [4 5 6]]
+
+
+
+#Count Occurrences
+#returns the number of times the element x appears in the given array using the count method
+
+def count_occurrences(arr, x):
+    return arr.count(x)
+    
+arr=[1,2,3,4,1,3,4]
+x=1
+count_occurrences(arr, x)
+print(count_occurrences)  # Output: 2
+
+
+
+

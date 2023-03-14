@@ -1,3 +1,5 @@
+# Function to generate a Fibonacci sequence up to a given number:
+
 def fibonacci_sequence(n):
     """
     Generate a Fibonacci sequence up to a given number n

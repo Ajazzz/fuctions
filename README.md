@@ -21,11 +21,11 @@ generate_password()
 ```
 This function generates a random password of a given length.
 
-**Contributing**
+##Contributing
 If you would like to contribute to this repository, feel free to submit a pull request with your changes.
 
-**Contact Information**
+##Contact Information
 If you have any questions or issues with this repository, please feel free to contact me at ajazz.md@gmail.com.
 
-**Conclusion**
+##Conclusion
 This functions repository is a useful collection of reusable functions that can save time and effort when working on new projects.DO checkout all of the usefull functiosn that you can include in your projects are for daily practice. By following the installation and usage instructions, users can easily incorporate these functions into their own projects.

@@ -5,7 +5,7 @@ This is a collection of functions that can be reused across various projects.
 **Installation**
 To use these functions, simply clone this repository or download the files and include them in your project directory.
 
-##Usage##
+##Usage
 
 There are various functions available in this repository. Here are a few examples:
 ```ruby

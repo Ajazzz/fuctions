@@ -13,8 +13,8 @@ This function takes in two numbers as input and returns their sum.
 
 calculate_average()
 This function takes in a list of numbers as input and returns their average.
-
-generate_password()
+```ruby
+generate_password()```
 This function generates a random password of a given length.
 
 **Contributing**

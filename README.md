@@ -2,7 +2,8 @@
 
 This is a collection of functions that can be reused across various projects.
 
-**Installation**
+##Installation
+
 To use these functions, simply clone this repository or download the files and include them in your project directory.
 
 ## Usage

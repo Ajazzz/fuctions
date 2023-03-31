@@ -7,11 +7,13 @@ To use these functions, simply clone this repository or download the files and i
 
 **Usage**
 There are various functions available in this repository. Here are a few examples:
-
+```ruby
 calculate_sum()
+```
 This function takes in two numbers as input and returns their sum.
-
+```ruby
 calculate_average()
+```
 This function takes in a list of numbers as input and returns their average.
 ```ruby
 generate_password()

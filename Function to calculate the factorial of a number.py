@@ -8,6 +8,6 @@ def factorial(n):
         return n * factorial(n-1)
 
     
-n=2
+n=5
 print(factorial(n))
-#OUTPUT
+#OUTPUT = 120

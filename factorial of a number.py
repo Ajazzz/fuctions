@@ -1,4 +1,4 @@
- '''Function to calculate the factorial of a number:
+ ''' Function to calculate the factorial of a number:
 
 def factorial(n):
     """

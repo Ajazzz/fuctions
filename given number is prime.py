@@ -1,4 +1,4 @@
-''' Function to check whether a given number is prime or not:'''
+''' Function to check whether a given number is prime or not: '''
 
 def is_prime(n):
     """

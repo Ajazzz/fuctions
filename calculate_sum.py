@@ -1,4 +1,4 @@
- Define a function that takes in two numbers and returns their sum
+ '''Define a function that takes in two numbers and returns their sum
 def calculate_sum(num1, num2):
     sum = num1 + num2
     return sum

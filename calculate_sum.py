@@ -6,3 +6,23 @@ def calculate_sum(num1, num2):
 # Call the function and print the result
 result = calculate_sum(5, 10)
 print(result)  # Output: 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

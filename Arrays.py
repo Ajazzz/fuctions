@@ -3,7 +3,7 @@ import numpy as np
 def create_array(n):
     return np.arange(n)
 
- '''Example usage:
+ '''Example usage:'''
 arr = create_array(5)
 print(arr)   # Output: [0 1 2 3 4]
 

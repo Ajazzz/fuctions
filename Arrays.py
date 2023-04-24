@@ -8,7 +8,7 @@ arr = create_array(5)
 print(arr)   # Output: [0 1 2 3 4]
 
 
- Calculating the mean of an array:
+ '''Calculating the mean of an array:
 
 import numpy as np
 

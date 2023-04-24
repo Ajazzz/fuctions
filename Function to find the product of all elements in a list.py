@@ -6,3 +6,4 @@ def product_list(l):
     for i in l:
         product *= i
     return product
+# OUTPUT

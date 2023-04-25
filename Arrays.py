@@ -15,7 +15,7 @@ import numpy as np
 def calculate_mean(arr):
     return np.mean(arr)
 
-'''Example usage:
+''' Example usage:
 arr = np.array([1, 2, 3, 4, 5])
 mean = calculate_mean(arr)
 print(mean)   # Output: 3.0

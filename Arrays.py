@@ -21,7 +21,7 @@ mean = calculate_mean(arr)
 print(mean)   # Output: 3.0
 
 
-''' Reshaping an array:'''
+''' Reshaping an array: '''
 import numpy as np
 
 def reshape_array(arr, shape):

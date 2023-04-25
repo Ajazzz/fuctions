@@ -27,7 +27,7 @@ import numpy as np
 def reshape_array(arr, shape):
     return np.reshape(arr, shape)
 
-#Example usage:
+Example usage:
 arr = np.array([1, 2, 3, 4, 5, 6])
 new_shape = (2, 3)
 new_arr = reshape_array(arr, new_shape)

@@ -37,7 +37,7 @@ print(new_arr)   # Output: [[1 2 3], [4 5 6]]
 
 ''' Count Occurrences '''
 ''' returns the number of times the element x appears in the given array using the count method. '''
-#here are sone examples;
+ here are sone examples;
 
 def count_occurrences(arr, x):
     return arr.count(x)

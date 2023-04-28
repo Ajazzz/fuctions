@@ -49,7 +49,7 @@ print(count_occurrences)  # Output: 2
 
 
 '''Reverse Array 
-#reverses the order of the elements in the given array using the reverse method.
+#reverses the order of the elements in the given array using the reverse method.'''
 
 def reverse_arr(arr):
     arr.reverse()

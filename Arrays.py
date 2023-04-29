@@ -58,8 +58,8 @@ arr=[1,2,3,4,1,3,4]
 reverse_arr(arr)  # Output: [4, 3, 1, 4, 3, 2, 1]
 
 
-'''Remove duplicates 
-removes all duplicate elements from the given array using a combination of the list and set data types.
+''' Remove duplicates 
+removes all duplicate elements from the given array using a combination of the list and set data types.'''
 
 arr=[1,2,3,4,1,3,4]
 def remove_duplicates(arr):
